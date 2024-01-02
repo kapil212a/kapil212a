@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kapil212a (kapil kumar gupta)
+- I'am a Btech student study in Shri Ramswaroop Memorial University 
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on IBM
+- 💞️ I’m looking to collaborate with IBM
 - 📫 How to reach me: My E-mail: amangupta74086@gmail.com
 - contact no: 7408628560
 
